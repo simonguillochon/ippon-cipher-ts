@@ -1,0 +1,16 @@
+{
+  "name": "cipher-ts",
+  "version": "1.0.0",
+  "description": "🧷 [Github repository](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node decrypt-cipher.ts --key=ippon --message="
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.29",
+    "minimist": "^1.2.6"
+  }
+}
