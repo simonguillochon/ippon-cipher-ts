@@ -1,6 +1,6 @@
-# The Alphabet Cipher - Lewis Carroll (1868)
+# Alphabet Cipher
 
-🧷 This kata is fully inspired of [this Github repository](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
+Retrouvez ce kata sur [Github](https://github.com/simonguillochon/ippon-cipher-ts) 😉
 
 Lewis Carroll publiait en 1868 The Alphabet Cipher décrivant une mécanique de chiffrement par substitution connue comme [le chiffre de Vigenère](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher).
 
@@ -61,3 +61,5 @@ Réaliser un programme en TypeScript pour décrypter la phrase suivante avec la 
 ```
 hdgwgqjthekwccywvxsf
 ```
+
+> 👉 Pour simplifier  votre développement un fichier `decrypt-cipher.ts` a été initialisé. Vous pouvez le lancer simplement avec la commande `npm start`.
