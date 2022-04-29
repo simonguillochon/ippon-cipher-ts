@@ -4,7 +4,7 @@
   "description": "🧷 [Github repository](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)",
   "main": "index.js",
   "scripts": {
-    "start": "npx ts-node decrypt-cipher.ts --key=ippon --message=hdgwgqjthekwccywvxsf"
+    "start": "npx ts-node decrypt-cipher.ts --key=ippon --message=xdhwgqkthrkwccywvn"
   },
   "keywords": [],
   "author": "",

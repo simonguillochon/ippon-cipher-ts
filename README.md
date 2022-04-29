@@ -59,7 +59,7 @@ npx ts-node decrypt-cipher.ts --key=<KEY_VALUE> --message=<MESSAGE_VALUE>
 
 Réaliser un programme en TypeScript pour décrypter la phrase suivante avec la clé `ippon` utilisée par nos protagonistes.
 ```
-hdgwgqjthekwccywvxsf
+xdhwgqkthrkwccywvn
 ```
 
 > 👉 Pour simplifier  votre développement un fichier `decrypt-cipher.ts` a été initialisé. Vous pouvez le lancer simplement avec la commande `npm start`.
