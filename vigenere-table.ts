@@ -1,0 +1,30 @@
+
+let table = new Map();
+table.set('A', 'abcdefghijklmnopqrstuvwxyz');
+table.set('B', 'bcdefghijklmnopqrstuvwxyza');
+table.set('C', 'cdefghijklmnopqrstuvwxyzab');
+table.set('D', 'defghijklmnopqrstuvwxyzabc');
+table.set('E', 'efghijklmnopqrstuvwxyzabcd');
+table.set('F', 'fghijklmnopqrstuvwxyzabcde');
+table.set('G', 'ghijklmnopqrstuvwxyzabcdef');
+table.set('H', 'hijklmnopqrstuvwxyzabcdefg');
+table.set('I', 'ijklmnopqrstuvwxyzabcdefgh');
+table.set('J', 'jklmnopqrstuvwxyzabcdefghi');
+table.set('K', 'klmnopqrstuvwxyzabcdefghij');
+table.set('L', 'lmnopqrstuvwxyzabcdefghijk');
+table.set('M', 'mnopqrstuvwxyzabcdefghijkl');
+table.set('N', 'nopqrstuvwxyzabcdefghijklm');
+table.set('O', 'opqrstuvwxyzabcdefghijklmn');
+table.set('P', 'pqrstuvwxyzabcdefghijklmno');
+table.set('Q', 'qrstuvwxyzabcdefghijklmnop');
+table.set('R', 'rstuvwxyzabcdefghijklmnopq');
+table.set('S', 'stuvwxyzabcdefghijklmnopqr');
+table.set('T', 'tuvwxyzabcdefghijklmnopqrs');
+table.set('U', 'uvwxyzabcdefghijklmnopqrst');
+table.set('V', 'vwxyzabcdefghijklmnopqrstu');
+table.set('W', 'wxyzabcdefghijklmnopqrstuv');
+table.set('X', 'xyzabcdefghijklmnopqrstuvw');
+table.set('Y', 'yzabcdefghijklmnopqrstuvwx');
+table.set('Z', 'zabcdefghijklmnopqrstuvwxy');
+
+export default table;
