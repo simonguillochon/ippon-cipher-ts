@@ -50,7 +50,7 @@ Nos deux protagonistes ayant choisi le mot `satoshi`, cela donne la chose suivan
 ```
 s a t o s h i s a t o s h i s a t o s h i s a t o s h i s
 i h a v e t h e t e n b i t c o i n s y o u a s k e d m e
-a h t j w a p . . . . . . . . . . . . . . . . . . . . . .
+a h t j w a p w t x b t p b u o b b k f w m a l y w k u w
 ```
 Nos deux protagonistes échangeant beaucoup avec ce système. Par conséquent, ils souhaitent faciliter le décryptage d'un message donné avec une clé donnée. La ligne de commande qu'ils prévoient d'entrer ressemble à ceci :
 ```bash
@@ -59,5 +59,5 @@ npx ts-node decrypt-cipher.ts --key=<KEY_VALUE> --message=<MESSAGE_VALUE>
 
 Réaliser un programme en TypeScript pour décrypter la phrase suivante avec la clé `ippon` utilisée par nos protagonistes.
 ```
-. . .
+hdgwgqjthekwccywvxsf
 ```
